@@ -20,9 +20,5 @@ def ignore_warnings():
     warnings.filterwarnings('ignore')
 
 
-def pyecharts():
-    import numpy as np
-    import pandas as pd
-    from pyecharts.charts import *
-    from pyecharts import options as opts
-    from pyecharts.globals import ThemeType 
+
+
